@@ -1,0 +1,5 @@
+link 1:
+http://dan.drown.org/stm32duino/package_STM32duino_index.json
+
+link 2:
+https://raw.githubusercontent.com/stm32duino/BoardManagerFiles/master/package_stmicroelectronics_index.json
